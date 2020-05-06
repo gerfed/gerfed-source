@@ -6,7 +6,7 @@ const char *pass = "12345678"; // Пароль роутера
 
 const char *mqtt_server = "ru1.gerfed.ru"; // Имя сервера MQTT
 const int mqtt_port = 1883; // Порт для подключения к серверу MQTT
-const char *mqtt_user = "test"; // Логи для подключения к серверу MQTT
+const char *mqtt_user = "test"; // Логин для подключения к серверу MQTT
 const char *mqtt_pass = "test"; // Пароль для подключения к серверу MQTT
 
 const int led = 5; // диод на плате
